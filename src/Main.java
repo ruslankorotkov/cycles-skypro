@@ -74,6 +74,7 @@ public class Main {
         }
     }
 
+
     public static void task10() {
         System.out.println(" Задача 10 ");
         int x = 2;
